@@ -6,12 +6,12 @@ This open source (MIT) library by Rob Latour can be used to draw Nixie Tubes on 
 
 An example demo program is included with the library; the code is well commented and walks you through the features of the library.
 
-Additionally, an example open sourece Nixie Tube Clock (Arduino code) program is also available seperately at https://github.com/roblatour/NixieTubeClock
+Additionally, an example open source Nixie Tube Clock (Arduino code) program is also available separately at https://github.com/roblatour/NixieTubeClock
 
 # Creating your own Tube screens
 
-Additioanlly included, in the extras folder of this library, is the vb.net program used to generates the tube screens (i.e. the image files and there associcated header file update code)
-This program can be used to taylor for other sizes, fonts, a different mesh, colours, etc..
+Additionally included, in the extras folder of this library, is the vb.net program used to generates the tube screens (i.e. the image files and there associated header file update code)
+This program can be used to customize for other sizes, fonts, a different mesh, colours, etc..
 
 The tube image is also in the public domain, and was created by my dear wife.
 
@@ -27,4 +27,4 @@ MIT
 
 Want to contribute? Great!
 
-Please visit https://rlatour.com 
+Please visit https://rlatour.com
